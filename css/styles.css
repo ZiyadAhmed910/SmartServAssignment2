@@ -1,0 +1,41 @@
+                .btn-primary {
+
+                    background-color: #6d7fcc !important;
+                    border-color: #6d7fcc !important;
+                }
+
+                .btn-primary:hover {
+                    background-color: black !important;
+                    border-color: black !important;
+                }
+
+                .fafatag {
+                    font-size: 250% !important;
+                }
+
+                .he {
+                    float: right !important;
+                }
+
+                body {
+                    background: #f1f1f1;
+                    width: 100vw;
+                    height: 100vh;
+                    padding: 15px;
+                }
+
+                .card-body {
+                    box-shadow: 4px 6px 8px #ccc;
+                }
+
+                table,
+                th,
+                td {
+                    border: 1px solid black;
+                    border-collapse: collapse;
+                }
+
+                th,
+                td {
+                    padding: 10px;
+                }
